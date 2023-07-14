@@ -97,14 +97,14 @@
 /* Logo */
 .logo {
   font-size: var(--h3-font-size);
-  max-width: fit-content;
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
 }
 
 .logo img {
-  display: inline;
   width: 4rem;
   aspect-ratio: 1/1;
-  margin-right: 0.5rem;
 }
 
 /*=============== LAYOUT ===============*/
