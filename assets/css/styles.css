@@ -304,13 +304,12 @@ nav {
 
 .app-btn {
   max-width: fit-content;
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
   white-space: nowrap;
 }
 
-.app-btn img {
-  display: inline;
-  margin-right: 0.5rem;
-}
 /*=============== CONTACT ===============*/
 .contact {
   display: flex;
