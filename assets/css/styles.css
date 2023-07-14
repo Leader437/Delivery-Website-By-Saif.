@@ -5,6 +5,7 @@
 *::before, 
 *::after {
   font-family: 'Poppins', sans-serif;
+  overflow-x: hidden;
 }
 
 /*=============== VARIABLES CSS ===============*/
