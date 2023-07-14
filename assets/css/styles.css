@@ -337,7 +337,6 @@ footer {
 }
 
 .footer-logo {
-  display: block;
   max-width: fit-content;
   margin: 0 auto;
   margin-bottom: 1rem;
