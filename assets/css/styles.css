@@ -97,6 +97,7 @@
 /* Logo */
 .logo {
   font-size: var(--h3-font-size);
+  max-width: fit-content;
 }
 
 .logo img {
